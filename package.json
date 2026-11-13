@@ -1,0 +1,11 @@
+{
+  "name": "lowprice-bot",
+  "version": "1.0.0",
+  "description": "네이버 쇼핑 검색 스킬 기반 '두유 96팩' 최저가 알리미 봇",
+  "main": "lowprice_bot.js",
+  "scripts": {
+    "start": "node lowprice_bot.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
